@@ -57,6 +57,8 @@ For any inquiries or further information, feel free to reach out to us at faique
 Thank you for using Transfopower@pvt limited! We hope this project meets your needs effectively. Happy coding!
 
 Repository Contents
-1. Online ICM Manager
+1. Industrial Meter UI
+2. Industrial Meter Data Collector
+3. Industrial Meter Scripts (WCF Rest APIS)
 
 Feel free to add or modify sections as per your specific project's needs. The README file is essential for providing users and contributors with crucial information about your project and setting the right expectations. Good luck with your development and update management!
