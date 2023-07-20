@@ -49,8 +49,7 @@ Issues
 If you encounter any issues with the project or have suggestions for improvements, please create a new issue with detailed information about the problem or suggestion.
 
 License
-This project is licensed under the MIT License. (You can use a different license if you prefer)
-
+This project is licensed under the MIT License. 
 Contact
 For any inquiries or further information, feel free to reach out to us at faique@transfopower.net.
 
