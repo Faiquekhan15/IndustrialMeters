@@ -31,7 +31,7 @@ Follow these steps to set up the project:
 Clone the repository to your local machine:
 bash
 Copy code
-git clone https://github.com/your-username/Transfopower-pvt-limited.git
+git clone https://github.com/Faiquekhan15/IndustrialMeters.git
 Usage
 Please read the README file in each sub-branch for specific usage instructions.
 
