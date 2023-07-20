@@ -1,0 +1,6 @@
+c:\users\faique\documents\visual studio 2015\Projects\WcfDinRail\WcfDinRail\bin\WcfDinRail.dll.config
+c:\users\faique\documents\visual studio 2015\Projects\WcfDinRail\WcfDinRail\bin\WcfDinRail.dll
+c:\users\faique\documents\visual studio 2015\Projects\WcfDinRail\WcfDinRail\bin\WcfDinRail.pdb
+c:\users\faique\documents\visual studio 2015\Projects\WcfDinRail\WcfDinRail\obj\Debug\WcfDinRail.csprojResolveAssemblyReference.cache
+c:\users\faique\documents\visual studio 2015\Projects\WcfDinRail\WcfDinRail\obj\Debug\WcfDinRail.dll
+c:\users\faique\documents\visual studio 2015\Projects\WcfDinRail\WcfDinRail\obj\Debug\WcfDinRail.pdb
